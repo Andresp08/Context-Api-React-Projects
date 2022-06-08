@@ -1,0 +1,9 @@
+.alerta{
+    font-size: 1.4rem;
+    color: #000;
+    text-align: center;
+    border-bottom: 1px solid red;
+    max-width: 50%;
+    margin: 0 auto;
+    padding-top: 2rem;
+}

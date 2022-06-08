@@ -1,0 +1,33 @@
+.formulario{
+    padding: 5rem;
+    box-shadow: 0px 10px 40px rgba(3, 19, 23, 0.25);
+}
+.contenedor{
+    width: 1600px;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.campo{
+    max-width: 50%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+.label__coctel{
+    font-size: 1.5rem;
+}
+.coctel__input{
+    width: 30rem;
+    padding: .7rem;
+}
+.btn__coctel{
+    background-color: #141E27;
+    outline: none;
+    border: none;
+    color: #FFD32D;
+    cursor: pointer;
+    padding: .5rem 1rem;
+    font-size: 1.2rem;
+    border-radius: 10px;
+}

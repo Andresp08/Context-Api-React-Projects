@@ -1,0 +1,29 @@
+.header{
+    background-color: #141E27;
+    color: #FFF;
+    padding: 5rem;
+    margin-bottom: 2rem;
+}
+.contenedor{
+    width: 1600px;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.grid{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.informacion{
+    text-align: center;
+}
+.titulo{
+    color: #FFD32D;
+    font-size: 3.5rem;
+}
+.texto{
+    font-size: 1rem;
+    line-height: 1.8;
+    font-weight: normal;
+    text-align: justify;
+}

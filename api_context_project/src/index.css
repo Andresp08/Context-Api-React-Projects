@@ -1,0 +1,10 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.alerta{
+  margin-top: .5rem;
+  font-size: 1.4rem;
+  color: #000;
+  text-align: center;
+  border-bottom: 1px solid red;
+}
